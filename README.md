@@ -19,6 +19,9 @@
     
 **2022年6月17日，日本法院对日本政府判决“日本政府对福岛核事故无责任”**。大海是全人类共同的财富，福岛核事故善后不力，日本政府难辞其咎。
 
+On June 17, 2022, the Japanese court ruled that "the Japanese government is not responsible for the Fukushima nuclear accident". 
+The sea is the common treasure of all mankind, and the Japanese government is to blame for the poor response to the Fukushima nuclear accident.
+
 ## 创建这个仓库的目的(The purpose of creating this repository)
 
     记录下全世界公民的观点。(Record the views of citizens all over the world.)
