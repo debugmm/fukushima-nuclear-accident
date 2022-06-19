@@ -21,6 +21,8 @@
 
 ## 创建这个仓库的目的(The purpose of creating this repository)
 
+    记录下全世界公民的观点。(Record the views of citizens all over the world.)
+
     你认为日本政府对福岛核事故无责任吗？(Do you think the Japanese government is not responsible for the Fukushima nuclear accident?)
     
     1. 日本政府对福岛核事故有责任(the Japanese government responsible for the Fukushima accident.)
