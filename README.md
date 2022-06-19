@@ -26,7 +26,7 @@
     1. 日本政府对福岛核事故有责任(the Japanese government responsible for the Fukushima accident.)
     2. 日本政府对福岛核事故没有责任(The Japanese government is not responsible for the Fukushima accident.)
     
-    
+    你可以在这个仓库issues下发表自己的观点。(You can post your views under this repository issues.)
 
     
   
